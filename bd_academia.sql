@@ -1,4 +1,6 @@
- create table Professor(
+create database db_academia;
+
+create table Professor(
     -> matricula_professor int AUTO_INCREMENT,
     -> nome varchar(150),
     -> primary key(matricula_professor)
